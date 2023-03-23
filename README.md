@@ -3,6 +3,7 @@
 ## How to use
 - Get a Discord Token by following this steps https://discordnet.dev/guides/getting_started/first-bot.html
 - Replace in `config.yml` `<DISCORD_TOKEN_HERE>` with your token
+- Replace in `config.yml` `rpc-parachain.bajun.network` with your node url
 - Run the bot
 - execute `/node-block`
 
