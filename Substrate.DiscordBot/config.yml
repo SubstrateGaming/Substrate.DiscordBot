@@ -1,0 +1,8 @@
+﻿# config.yml
+testGuild: 849331368558198803
+tokens:
+ discord: "<DISCORD_TOKEN_HERE>"
+node:
+ url: "rpc-parachain.bajun.network"
+
+        
